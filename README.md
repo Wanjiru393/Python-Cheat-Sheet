@@ -36,6 +36,8 @@ Python can't declare a variable without assignment.
 | `set`, `frozenset`                 | Set      |
 | `bool`                             | Boolean  |
 | `bytes`, `bytearray`, `memoryview` | Binary   |
+
+
 See: [Data Types](#python-data-types)
 
 
